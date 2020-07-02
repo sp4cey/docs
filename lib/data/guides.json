@@ -1,18 +1,5 @@
 [
   {
-    "title": "Create a Next.js App with a MySQL Database That Builds and Deploys with Vercel",
-    "description": "Deploy your Next.js and MySQL app with Vercel in a serverless environment.",
-    "published": "2019-04-26T16:51:04.000Z",
-    "authors": ["mcsdev", "furf"],
-    "url": "/guides/deploying-next-and-mysql-with-vercel",
-    "image": "https://vercel.com/docs/static/guides/deploying-next-mysql-with-vercel/deploying-next-mysql-with-vercel.png",
-    "editUrl": "pages/guides/deploying-next-and-mysql-with-vercel.mdx",
-    "name": "Next.js + MySQL",
-    "type": "app",
-    "lastEdited": "2020-07-02T06:29:55.000Z",
-    "rank": 1
-  },
-  {
     "title": "Create and Deploy a MongoDB-Powered Node.js API with Vercel",
     "description": "Create a serverless Node.js API with data powered by MongoDB then deploy it as a serverless app with Vercel.",
     "published": "2019-05-24T17:53:20.489Z",
@@ -41,19 +28,6 @@
     "rank": 3
   },
   {
-    "title": "Create a Next.js App with Contentful and Deploy It with Vercel",
-    "description": "Deploy your Next.js and Contentful app with Vercel in a serverless environment.",
-    "published": "2019-06-18T16:51:04.000Z",
-    "authors": ["mcsdev"],
-    "url": "/guides/deploying-next-and-contentful-with-vercel",
-    "image": "https://vercel.com/docs/static/guides/deploying-next-contentful-with-vercel/deploying-next-contentful-with-vercel.png",
-    "editUrl": "pages/guides/deploying-next-and-contentful-with-vercel.mdx",
-    "name": "Next.js + Contentful",
-    "type": "app",
-    "lastEdited": "2020-07-02T06:29:55.000Z",
-    "rank": 4
-  },
-  {
     "title": "Getting Started with Next.js and Vercel",
     "description": "Create a Next.js app and deploy it with Vercel.",
     "name": "Next.js",
@@ -67,18 +41,6 @@
     "editUrl": "pages/guides/deploying-nextjs-with-vercel.mdx",
     "lastEdited": "2020-07-02T06:29:55.000Z",
     "rank": 5
-  },
-  {
-    "title": "Deploying with Custom Serverless Next.js Routing",
-    "description": "Migrate from a Next.js app with a custom server to a serverless Next.js app using Vercel routes.",
-    "published": "2019-01-23T17:00:00.860Z",
-    "authors": ["timothy", "timneutkens"],
-    "name": "Next.js",
-    "type": "app",
-    "url": "/guides/custom-next-js-server-to-routes",
-    "editUrl": "pages/guides/custom-next-js-server-to-routes.mdx",
-    "lastEdited": "2020-07-02T06:29:55.000Z",
-    "rank": 6
   },
   {
     "title": "Create and Deploy a TakeShape Blog with Vercel",
@@ -165,19 +127,6 @@
     "rank": 13
   },
   {
-    "title": "Create and Deploy a Next.js and Prismic App with Vercel",
-    "description": "Create a Next.js and Prismic app that is deployed with Vercel.",
-    "name": "Next.js + Prismic",
-    "type": "app",
-    "published": "2019-06-26T14:46:50.000Z",
-    "authors": ["raulg"],
-    "url": "/guides/deploying-next-and-prismic-with-vercel",
-    "image": "https://vercel.com/docs/static/guides/deploying-next-prismic-with-vercel/deploying-next-prismic-with-vercel.png",
-    "editUrl": "pages/guides/deploying-next-and-prismic-with-vercel.mdx",
-    "lastEdited": "2020-07-02T06:29:55.000Z",
-    "rank": 14
-  },
-  {
     "title": "Deploying Sanity Studio with Vercel",
     "description": "Deploy your Sanity Studio with Vercel.",
     "name": "Sanity Studio",
@@ -239,19 +188,6 @@
     "rank": 19
   },
   {
-    "title": "Create a Next.js and Storyblok App That Builds and Deploys with Vercel",
-    "description": "Use Storyblok as a Headless CMS to power content for your Next.js app deployed with Vercel.",
-    "name": "Next.js + Storyblok",
-    "type": "app",
-    "published": "2019-06-24T16:51:04.000Z",
-    "authors": ["mcsdev"],
-    "url": "/guides/deploying-next-and-storyblok-with-vercel",
-    "image": "https://vercel.com/docs/static/guides/deploying-next-storyblok-with-vercel/deploying-next-storyblok-with-vercel.png",
-    "editUrl": "pages/guides/deploying-next-and-storyblok-with-vercel.mdx",
-    "lastEdited": "2020-07-02T06:29:55.000Z",
-    "rank": 20
-  },
-  {
     "title": "Create and Deploy a Next.js and FaunaDB-Powered Node.js App with Vercel",
     "description": "Create a Next.js and FaunaDB-Powered Node.js App and deploy it with Vercel.",
     "name": "Next.js + FaunaDB",
@@ -263,19 +199,6 @@
     "editUrl": "pages/guides/deploying-nextjs-nodejs-and-faunadb-with-vercel.mdx",
     "lastEdited": "2020-07-02T06:29:55.000Z",
     "rank": 21
-  },
-  {
-    "title": "Create a Next.js and ButterCMS App That Builds and Deploys with Vercel",
-    "description": "Deploy your Next.js and ButterCMS app with Vercel in a serverless environment.",
-    "published": "2019-06-21T16:51:04.000Z",
-    "authors": ["mcsdev"],
-    "url": "/guides/deploying-next-and-buttercms-with-vercel",
-    "image": "https://vercel.com/docs/static/guides/deploying-next-and-buttercms-with-vercel/deploying-next-and-buttercms-with-vercel.png",
-    "editUrl": "pages/guides/deploying-next-and-buttercms-with-vercel.mdx",
-    "name": "Next.js + ButterCMS",
-    "type": "app",
-    "lastEdited": "2020-07-02T06:29:55.000Z",
-    "rank": 22
   },
   {
     "title": "Deploying Real-Time Apps with Pusher Channels and Vercel",
@@ -673,6 +596,66 @@
     "lastEdited": "2020-05-08T23:58:00.000Z"
   },
   {
+    "title": "Create and Deploy a Next.js and Prismic App with Vercel",
+    "description": "Create a Next.js and Prismic app that is deployed with Vercel.",
+    "name": "Next.js + Prismic",
+    "type": "app",
+    "published": "2019-06-26T14:46:50.000Z",
+    "authors": ["raulg"],
+    "url": "/guides/deploying-next-and-prismic-with-vercel",
+    "image": "https://vercel.com/docs/static/guides/deploying-next-prismic-with-vercel/deploying-next-prismic-with-vercel.png",
+    "editUrl": "pages/guides/deploying-next-and-prismic-with-vercel.mdx",
+    "lastEdited": "2020-07-02T18:09:28.000Z"
+  },
+  {
+    "title": "Create a Next.js and Storyblok App That Builds and Deploys with Vercel",
+    "description": "Use Storyblok as a Headless CMS to power content for your Next.js app deployed with Vercel.",
+    "name": "Next.js + Storyblok",
+    "type": "app",
+    "published": "2019-06-24T16:51:04.000Z",
+    "authors": ["mcsdev"],
+    "url": "/guides/deploying-next-and-storyblok-with-vercel",
+    "image": "https://vercel.com/docs/static/guides/deploying-next-storyblok-with-vercel/deploying-next-storyblok-with-vercel.png",
+    "editUrl": "pages/guides/deploying-next-and-storyblok-with-vercel.mdx",
+    "lastEdited": "2020-07-02T18:09:28.000Z"
+  },
+  {
+    "title": "Create a Next.js and ButterCMS App That Builds and Deploys with Vercel",
+    "description": "Deploy your Next.js and ButterCMS app with Vercel in a serverless environment.",
+    "published": "2019-06-21T16:51:04.000Z",
+    "authors": ["mcsdev"],
+    "url": "/guides/deploying-next-and-buttercms-with-vercel",
+    "image": "https://vercel.com/docs/static/guides/deploying-next-and-buttercms-with-vercel/deploying-next-and-buttercms-with-vercel.png",
+    "editUrl": "pages/guides/deploying-next-and-buttercms-with-vercel.mdx",
+    "name": "Next.js + ButterCMS",
+    "type": "app",
+    "lastEdited": "2020-07-02T18:09:28.000Z"
+  },
+  {
+    "title": "Create a Next.js App with Contentful and Deploy It with Vercel",
+    "description": "Deploy your Next.js and Contentful app with Vercel in a serverless environment.",
+    "published": "2019-06-18T16:51:04.000Z",
+    "authors": ["mcsdev"],
+    "url": "/guides/deploying-next-and-contentful-with-vercel",
+    "image": "https://vercel.com/docs/static/guides/deploying-next-contentful-with-vercel/deploying-next-contentful-with-vercel.png",
+    "editUrl": "pages/guides/deploying-next-and-contentful-with-vercel.mdx",
+    "name": "Next.js + Contentful",
+    "type": "app",
+    "lastEdited": "2020-07-02T18:09:28.000Z"
+  },
+  {
+    "title": "Create a Next.js App with a MySQL Database That Builds and Deploys with Vercel",
+    "description": "Deploy your Next.js and MySQL app with Vercel in a serverless environment.",
+    "published": "2019-04-26T16:51:04.000Z",
+    "authors": ["mcsdev", "furf"],
+    "url": "/guides/deploying-next-and-mysql-with-vercel",
+    "image": "https://vercel.com/docs/static/guides/deploying-next-mysql-with-vercel/deploying-next-mysql-with-vercel.png",
+    "editUrl": "pages/guides/deploying-next-and-mysql-with-vercel.mdx",
+    "name": "Next.js + MySQL",
+    "type": "app",
+    "lastEdited": "2020-07-02T18:09:28.000Z"
+  },
+  {
     "title": "Create a Charge App That Builds and Deploys with Vercel",
     "description": "Deploy your Charge app with Vercel in 3 easy steps.",
     "published": "2019-04-09T03:00:00.860Z",
@@ -766,5 +749,16 @@
     "url": "/guides/prevent-uploading-sourcepaths-with-vercelignore",
     "editUrl": "pages/guides/prevent-uploading-sourcepaths-with-vercelignore.mdx",
     "lastEdited": "2020-05-14T22:27:16.000Z"
+  },
+  {
+    "title": "Deploying with Custom Serverless Next.js Routing",
+    "description": "Migrate from a Next.js app with a custom server to a serverless Next.js app using Vercel routes.",
+    "published": "2019-01-23T17:00:00.860Z",
+    "authors": ["timothy", "timneutkens"],
+    "name": "Next.js",
+    "type": "app",
+    "url": "/guides/custom-next-js-server-to-routes",
+    "editUrl": "pages/guides/custom-next-js-server-to-routes.mdx",
+    "lastEdited": "2020-07-02T18:09:28.000Z"
   }
 ]
